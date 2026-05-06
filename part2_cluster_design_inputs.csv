@@ -1,0 +1,41 @@
+text,source,cluster
+"Title: Urban design. Author: Cliff Moughtin, J C Moughtin. Subjects: .",original_text,0
+Title: Wuthering Heights. Author: Emily Brontë. Subjects: .,original_text,0
+Title: Hans Andersen's Fairy Tales. Author: Hans Christian Andersen. Subjects: .,original_text,2
+Title: Alice's Adventures in Wonderland. Author: Lewis Carroll. Subjects: .,original_text,2
+"Title: The Canterbury Tales. Author: Geoffrey Chaucer, John E. Cunningham. Subjects: .",original_text,2
+Title: The Great Gatsby. Author: F. Scott Fitzgerald. Subjects: .,original_text,2
+Title: The Picture of Dorian Gray. Author: Oscar Wilde. Subjects: .,original_text,0
+Title: The Sea-Wolf. Author: Jack London. Subjects: .,original_text,0
+Title: Urban design. Author: Cliff Moughtin. Subjects: .,original_text,0
+Title: Urban Design Process 0292. Author: Hamid Shirvani. Subjects: .,original_text,0
+"Title: A New theory of urban design. Author: Christopher Alexander, Hajo Nais. Subjects: .",original_text,2
+Title: Sustainable Urbanism. Author: Douglas Farr. Subjects: .,original_text,0
+Title: [Urban design. Author: Lawrence Diamond. Subjects: .,original_text,0
+Title: Urban design. Author: Jon Lang. Subjects: .,original_text,0
+Title: Companion to Urban design. Author: Tridib Banerjee. Subjects: .,original_text,0
+Title: Urban design. Author: . Subjects: .,original_text,0
+Title: Urban design. Author: Peter C. Pran. Subjects: .,original_text,0
+"Title: Urban Design. Author: Peter Shirley, J. C. Moughtin. Subjects: .",original_text,0
+Title: Urban design. Author: Ronald J. Kasprisin. Subjects: .,original_text,0
+Title: The comprehensive plan : urban design. Author: San Francisco (Calif.). Dept. of City Planning.. Subjects: .,original_text,1
+Create a vibrant urban space that encourages community interaction and sustainable living.,api_design_prompt,0
+Create a design inspired by the contrasting emotions and landscapes of Wuthering Heights.,api_design_prompt,2
+Create a whimsical book cover for Hans Andersen's Fairy Tales that captures the enchanted atmosphere of the stories.,api_design_prompt,1
+"Create a whimsical design inspired by Alice's Adventures in Wonderland, incorporating surreal spatial elements and a vibrant colour palette.",api_design_prompt,1
+Create a book cover that reflects the medieval setting and narrative depth of The Canterbury Tales,api_design_prompt,2
+"Create a design that captures the essence of the Jazz Age, emphasizing luxury and excess",api_design_prompt,2
+Create a visual representation that captures the themes of beauty and moral decay as depicted in The Picture of Dorian Gray.,api_design_prompt,1
+"Create a design inspired by the adventurous spirit of the sea, focusing on oceanic elements and the rugged materials associated with maritime life.",api_design_prompt,1
+Create a vibrant urban space that fosters community interaction and sustainability.,api_design_prompt,0
+Create an urban space that fosters community interaction while incorporating sustainable materials.,api_design_prompt,0
+Explore new approaches to urban spaces that foster community and connectivity.,api_design_prompt,2
+Create a design that promotes sustainability in urban environments,api_design_prompt,0
+Create a modern urban space that promotes community engagement and sustainability.,api_design_prompt,0
+Create a vibrant urban space that encourages community interaction and sustainability.,api_design_prompt,0
+Create an urban space that enhances community interaction and accessibility.,api_design_prompt,0
+Create a sustainable urban space that fosters community interaction.,api_design_prompt,0
+Create a modern urban space that fosters community interaction and sustainability.,api_design_prompt,0
+Create a sustainable urban space that fosters community interaction.,api_design_prompt,0
+Create an urban environment that fosters community interaction and sustainability.,api_design_prompt,0
+Create a comprehensive urban design plan that integrates functionality and aesthetics in a modern city layout.,api_design_prompt,2
